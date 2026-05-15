@@ -1,1 +1,1 @@
-(https://github.com/DogusYigit/Remedy)
+https://github.com/DogusYigit/Remedy
